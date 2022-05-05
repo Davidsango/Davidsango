@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidsango
 - 👀 I’m interested in learn to program
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently estudiando Desarrollo de software
 - 💞️ I’m looking to collaborate on projects that teach me logic and give me the foundation to be a great programmer
 - 📫 dagm0304@gmail.com
 
